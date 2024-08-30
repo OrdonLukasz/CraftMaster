@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a99476dbd446041408c015ed617b55ad, type: 3}
+  m_Name: Steel
+  m_EditorClassIdentifier: 
+  name: Steel
+  icon: {fileID: 21300000, guid: 059eb0e607c410e44842dfef8bb996fa, type: 3}
+  prefab: {fileID: 5746801818608792961, guid: a19a06829e2fd514da53029fd9c9c857, type: 3}
+  stackMax: 20
+  craftSuccessPercentage: 100
